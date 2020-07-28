@@ -219,6 +219,11 @@ footer a img{
 	margin-left: 2.25%;
 	margin-bottom: 9%; 
 }
+footer a img:hover{
+	width: 110px;
+	transition-duration: 0.5s;
+	transition-delay: 0s;
+}
 #type{
 	font-size: 150%;
 	/*line-height: 0.9;*/
